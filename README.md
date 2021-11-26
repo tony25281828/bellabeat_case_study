@@ -1,5 +1,5 @@
 # bellabeat_case_study v.1.0 (2021/11/24)
-### *<span style="color:blue">IN PROGRESS...</span>*
+### *IN PROGRESS...*
 
 ## This case study comes from Coursera Course.
 
@@ -17,5 +17,9 @@
 * Initial and secondary data cleaning process are written in bellabeat_initial_cleaning.R and bellabeat_secondary_cleaning.R
 * Data calculation and data statistics were calcuated by using MSSQL. All MSSQL codes are in sql_script.
 * **TO BE CONTINUE...**
+<br />
 
+## Updates
+* 2021/11/26: Upload R file, MSSQL script and process document.
+* **TO BE CONTINUE...**
 
