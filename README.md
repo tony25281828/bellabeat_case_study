@@ -1,11 +1,5 @@
-<style>
-  H1{color:Blue !important;}
-</style>
-
-
-
 # bellabeat_case_study v.1.0 (2021/11/24)
-### *<span style="color:red">IN PROGRESS...</span>*
+### *<span style="color:blue">IN PROGRESS...</span>*
 
 ## This case study comes from Coursera Course.
 
