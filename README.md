@@ -1,5 +1,5 @@
 # bellabeat_case_study v.1.0 (2021/11/24)
-### <span style="color:red">**TO BE CONTINUE...**</span>
+### *<span style="color:red">**IN PROGRESS...**</span>*
 
 ## This case study comes from Coursera Course.
 
