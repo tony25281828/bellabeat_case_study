@@ -16,10 +16,13 @@
 * All data analysis process is written in bellabeat_process_report.docx
 * Initial and secondary data cleaning process are written in bellabeat_initial_cleaning.R and bellabeat_secondary_cleaning.R
 * Data calculation and data statistics were calcuated by using MSSQL. All MSSQL codes are in sql_script.
+* Initially data visualization by using tableau.
 * **TO BE CONTINUE...**
 <br />
 
 ## Updates
 * 2021/11/26: Upload R file, MSSQL script and process document.
+* 2021/11/30: Upload tableau_dashboard1 screenshot.
+<https://public.tableau.com/views/bellabeat_16381966134100/Dashboard_steps_distance?:language=zh-TW&:display_count=n&:origin=viz_share_link>
 * **TO BE CONTINUE...**
 
